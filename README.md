@@ -15,4 +15,4 @@ blog
 * [用Redis轻松实现秒杀系统](https://github.com/shendl1978/blog/wiki/%E7%94%A8Redis%E8%BD%BB%E6%9D%BE%E5%AE%9E%E7%8E%B0%E7%A7%92%E6%9D%80%E7%B3%BB%E7%BB%9F)
 * [Excel的数据类型转换方法](https://github.com/shendl1978/blog/wiki/Excel%E7%9A%84%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2%E6%96%B9%E6%B3%95)
 * [软件架构设计原则和模式（上）：分层架构设计](https://github.com/shendl1978/blog/wiki/%E8%BD%AF%E4%BB%B6%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99%E5%92%8C%E6%A8%A1%E5%BC%8F%EF%BC%88%E4%B8%8A%EF%BC%89%EF%BC%9A%E5%88%86%E5%B1%82%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1)
-* [怎么卸载MacKeeper这个流氓软件](怎么卸载MacKeeper这个流氓软件)
+* [怎么卸载MacKeeper这个流氓软件](https://github.com/shendl1978/blog/wiki/怎么卸载MacKeeper这个流氓软件)
